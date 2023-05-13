@@ -1,0 +1,4 @@
+apache*
+terraform.tfstate*
+.terraform*
+terraform.tfvars
